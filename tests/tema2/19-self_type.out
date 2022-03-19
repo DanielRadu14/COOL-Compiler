@@ -1,0 +1,8 @@
+"19-self_type.cl", line 5:11, Semantic error: Method h of class A has formal parameter y with illegal type SELF_TYPE
+"19-self_type.cl", line 2:9, Semantic error: Class A has attribute x with undefined type SELF_TYPE
+"19-self_type.cl", line 7:35, Semantic error: Operand of + has type SELF_TYPE instead of Int
+"19-self_type.cl", line 11:22, Semantic error: new is used with undefined type SELF_TYPE
+"19-self_type.cl", line 12:22, Semantic error: new is used with undefined type SELF_TYPE
+"19-self_type.cl", line 6:9, Semantic error: Type Int of the body of method h is incompatible with declared return type SELF_TYPE
+"19-self_type.cl", line 56:24, Semantic error: Type D of the body of method f1 is incompatible with declared return type SELF_TYPE
+Compilation halted
